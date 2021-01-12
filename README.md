@@ -29,7 +29,7 @@ Bài lab này, bạn hoàng toàng có thể tự tạo account để làm theo 
 * Bạn chỉ việc thực hiện hoàng toàn step-by-step
 * Nhưng sau khi hoàng thành, bạn sẽ Không Hiểu được vì sao đánh command theo nó lại thực hiện được, vì sao EC2 lại truy vấn files từ S3, và nhiều cái khác.
 * Bạn nên hiểu, khi đi làm thì sẽ không có sẵn EC2 hay IAM Role hoặc files để cho bạn làm 1 cách nhàn nhã như vậy. 
-* Sau cùng, lab chỉ hướng dẫn làm, và sẽ không đưa ra bất cứ 1 link tham khảo nào ngoại trừ 2 link đã đưa. Nếu bạn muốn hiểu rõ hơn vì sao nó lại như vậy, hãy Google/Bing. 
+* Sau cùng, lab chỉ hướng dẫn làm, và sẽ không đưa ra bất cứ 1 link tham khảo nào ngoại trừ link đã đưa. Nếu bạn muốn hiểu rõ hơn vì sao nó lại như vậy, hãy Google/Bing. 
 * Bài lab sẽ rất ít viết ra command. Nên các bạn chú ý hình ảnh để đánh theo command. Tránh tình trạng copy/paste
 * Tên bucket thường khó viết lại. Nên 1 mẹo nhỏ là trong command-line, lúc nào bạn cũng phải list file/folder. Nó sẽ hiện ra tên folder/file. Dùng chuột trái tô đậm tên folder/file mong muốn => click chuột phải nó sẽ tự động copy xuống dòng command kế típ. 
 ---
